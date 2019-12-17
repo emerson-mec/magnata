@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-//teste de brech
-
+//teste criar brench
 class Magnata extends StatefulWidget {
   @override
   _MagnataState createState() => _MagnataState();

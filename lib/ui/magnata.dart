@@ -89,7 +89,7 @@ class _MagnataState extends State<Magnata> {
               ),
             ),
             Expanded(
-              //BOTÃO "MAIS GRANA!!!"
+              //BOTÃO "MAIS GRANA"
               child: Center(
                 child: FlatButton(
                   onPressed: _mandaGrana,

@@ -73,9 +73,9 @@ class _MagnataState extends State<Magnata> {
                 color: Colors.white,
                 child: Center(
                   child: Container(
-                    padding: EdgeInsets.all(20),
+                    padding: EdgeInsets.all(20), //
                     child: Text(
-                      "\$ $_contadorGrana",
+                      "\$ $_contadorGrana",  
                       style: TextStyle(
                         color: _contadorGrana >= 10000 ? Colors.red[600] : Colors.green[600], //cor do texto é alterada quando passa de 10.000
                         fontSize: 55,

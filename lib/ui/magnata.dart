@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//TESTEEEEEEEEEEEEEEEEEEEEEEEE
+//TESTEEEEEEEEEEEEEEEEEEEEEEEER
 
 class Magnata extends StatefulWidget {
   @override

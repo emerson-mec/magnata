@@ -73,7 +73,7 @@ class _MagnataState extends State<Magnata> {
                 color: Colors.white,
                 child: Center(
                   child: Container(
-                    padding: EdgeInsets.all(20), // teste para baixar para pc
+                    padding: EdgeInsets.all(20), 
                     child: Text(
                       "\$ $_contadorGrana",  
                       style: TextStyle(

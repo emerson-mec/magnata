@@ -98,7 +98,7 @@ class _MagnataState extends State<Magnata> {
                   textColor: Colors.white,
                   color: Colors.deepPurple,
                   child: Text(
-                    "Mais grana!!!!+",
+                    "Mais grana!!!",
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.w300,
